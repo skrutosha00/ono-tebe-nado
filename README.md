@@ -3,3 +3,4 @@
 версия 1.1
 
 [ссылка на репозиторий](https://github.com/skrutosha00/ono-tebe-nado)
+ссылка на репозиторий: https://github.com/skrutosha00/ono-tebe-nado
