@@ -240,7 +240,7 @@
   margin: 183px 0 180px;
 }
 
-.about_logo {
+.about__logo {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -250,22 +250,22 @@
   background-color: #000;
 }
 
-.about_logo img {
+.about__logo__image {
   width: 148px;
 }
 
-.about_text {
+.about__text {
   max-width: 693px;
 }
 
-.about_title {
+.about__title {
   margin: 106px 0 103px;
   font-size: 40px;
   font-weight: 700;
   text-transform: uppercase;
 }
 
-.about_paragraphs {
+.about__paragraphs {
   display: flex;
   flex-direction: column;
   gap: 24px;
@@ -283,17 +283,17 @@
   padding: 0 50px 90px;
 }
 
-.footer_links {
+.footer__links {
   text-align: center;
   line-height: 22px;
 }
 
-.footer_images {
+.footer__images {
   display: flex;
   gap: 48px;
 }
 
-.footer_images img {
+.footer__images__item {
   width: 48px;
   height: 48px;
 }
