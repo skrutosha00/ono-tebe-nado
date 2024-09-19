@@ -33,7 +33,7 @@
 }
 
 .address {
-  width: 237px;
+  max-width: 237px;
   font-style: normal;
   line-height: 24.3px;
 }
@@ -177,6 +177,7 @@
   position: relative;
   width: 334px;
   min-height: 563px;
+  flex-grow: 1;
   background-position: center;
   background-size: cover;
   text-decoration: none;
